@@ -14,7 +14,6 @@ const RefForm = () => {
         console.log(nameRef.current.value);
         console.log(emailRef.current.value);
         console.log(passwordRef.current.value);
-
     }
 
     return (
